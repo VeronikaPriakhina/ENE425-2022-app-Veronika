@@ -21,7 +21,7 @@
 
             /***   Navbar   ***/
             .navbar_carbon {
-              background: #f2935c;
+              background: #17755A;
               color: #fff;
               height: 60px;
             }
@@ -45,7 +45,7 @@
             }
 
             .navbar_carbon .logo a:hover {
-              color: lightblue;
+              color: lightgreen;
             }
 
             .navbar_carbon a {
